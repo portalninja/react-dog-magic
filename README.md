@@ -17,3 +17,4 @@ npm link react-dog-magic
 ## Fixes
 
 - DTS publishing
+  test
